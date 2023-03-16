@@ -36,17 +36,17 @@ div#t2{
     padding: 15px;
     font-weight:550;
 }
-div#w1{
+div.w{
     /* color: brown; */
     
 /*     margin-left: 90%; */
 	text-align:right;
 	font-style:italic;
 }
-div#w2{
+/* div#w2{
     /* color: brown; */
     
 /*     margin-left: 90%; */
 	text-align:right;
 	font-style:italic;
-}
+} */
