@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
 div.th{
-    margin: 10px;
     padding: 40px;
-    height: 350px;
-    width: 1000px;
     background-color: #f5f5f5;
 }
    
@@ -20,7 +17,7 @@ div.t{
     font-weight:550;
 }
 
-div.w{
+p.w{
   
 	text-align:right;
 	font-style:italic;
