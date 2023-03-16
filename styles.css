@@ -1,17 +1,12 @@
 /*  your css code here. If applicable */
 div.th{
     margin: 10px;
-    padding: 10px;
+    padding: 40px;
     height: 350px;
     width: 1000px;
     background-color: #f5f5f5;
 }
-#heading{
-    margin-left: 30px;
-    font-weight:900 ;
-    font-size: xx-large;
-    /* font-family:'Times New Roman', Times, serif ; */
-}
+   
 div.t{
 	 border-color: rgb(219, 211, 211);
     border-style: solid;
